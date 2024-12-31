@@ -18,3 +18,6 @@
 - **Lenguaje**: JS, HTML, CSS
 - **Framework o Librería (si aplica)**: React(vite)
 - **IDE o Herramienta de desarrollo**: VS code
+
+## 🎯 Donde esta alojado
+- **Web**: http://tateti.kesug.com/
