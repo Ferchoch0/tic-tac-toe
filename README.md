@@ -1,10 +1,10 @@
 # Tic Tac Toe 🎮
-        
-        Un sencillo pero divertido juego de Tic Tac Toe (Ta-Te-Ti) desarrollado para practicar habilidades de programación y lógica.
+
+Un sencillo pero divertido juego de Tic Tac Toe (Ta-Te-Ti) desarrollado para practicar habilidades de programación y lógica.
 
 ## 📖 Descripción
 
-        Este proyecto implementa el clásico juego de Tic Tac Toe, donde dos jugadores compiten por formar una línea de tres fichas (en horizontal, vertical o diagonal) en un tablero de 3x3. Es ideal para jugar con amigos.
+Este proyecto implementa el clásico juego de Tic Tac Toe, donde dos jugadores compiten por formar una línea de tres fichas (en horizontal, vertical o diagonal) en un tablero de 3x3. Es ideal para jugar con amigos.
 
 ## 🚀 Características
 
